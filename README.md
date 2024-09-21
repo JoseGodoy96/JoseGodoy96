@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/Jose maria godoy](https://www.linkedin.com/in/jose-maria-godoy-5a19961b1/)](https://www.linkedin.com/in/jose-maria-godoy-5a19961b1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose maria godoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-maria-godoy-5a19961b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose maria godoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
