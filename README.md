@@ -1,42 +1,14 @@
-<h1 align="center">Hola 👋, soy Jose Maria | Hi 👋, I'm Jose Maria</h1>
-<h3 align="center">Backend Developer (in progress) | Node.js · Express · TypeScript · Databases · Docker · AWS</h3>
+<h1 align="center">Hi 👋, I'm Jose Maria</h1>
+<h3 align="center">A passionate frontend developer from Spain</h3>
 
----
+- 💬 Ask me about **Html, Css, Javascript**
 
-### 👨‍💻 Sobre mí / About Me
-- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y **Técnico Superior en Administración y Finanzas**.  
-- 🌱 Actualmente siguiendo un **roadmap de Backend Developer**: Node.js, Express, PostgreSQL, MongoDB, Docker, AWS & CI/CD.  
-- 🔧 Construyendo proyectos paso a paso y compartiéndolos en GitHub.  
-- 💡 Interesado en combinar **soluciones tecnológicas con conocimiento empresarial y financiero**.  
-- 🎯 Looking for opportunities to grow as a **Junior Backend Developer**.  
+- 📫 How to reach me **josemariagodoy1996@gmail.com**
 
----
-
-### 🚀 Proyectos Destacados / Featured Projects
-- [Task Manager API](#) → CRUD con Node.js & Express + Autenticación JWT / CRUD with Node.js & Express + JWT Authentication  
-- [Blog API](#) → PostgreSQL & Sequelize con sistema de usuarios, posts y comentarios / User, Post & Comment system with PostgreSQL & Sequelize  
-- [E-commerce Backend](#) → Login, roles y despliegue en AWS con Docker / Login, roles and AWS deploy with Docker  
-
-*(Sustituye `#` con los enlaces a tus repositorios cuando los tengas listos)*  
-
----
-
-### 🛠️ Tecnologías / Tech Stack
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/jose-maria-godoy-5a19961b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose maria godoy" height="30" width="40" /></a>
 </p>
 
----
-
-### 📫 Conecta conmigo / Connect with me
-- ✉️ **Email**: josemariagodoy1996@gmail.com  
-- 💼 **LinkedIn**: [Jose Maria Godoy](https://www.linkedin.com/in/jose-maria-godoy-5a19961b1)  
-- 🌐 **GitHub**: [JoseGodoy96](https://github.com/JoseGodoy96)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
