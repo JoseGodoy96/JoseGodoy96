@@ -68,7 +68,7 @@ Users, posts, and comments system.
 
 ## 📫 Contact
 
-- LinkedIn: (pon aquí tu link)
+- LinkedIn: [](https://www.linkedin.com/in/jose-maria-godoy-5a19961b1/)
 - Email: josemariagodoy1996@gmail.com
 
 ---
