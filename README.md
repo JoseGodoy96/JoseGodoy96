@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Agostina
+# 👋 Hi, I'm José María
 
 💻 Backend Developer in progress  
 🚀 Focused on Java, Spring Boot & PostgreSQL  
@@ -10,7 +10,9 @@
 
 I'm currently building my path as a Backend Developer, focusing on **Java and Spring Boot** to create real-world applications and scalable APIs.
 
-I come from a **Business & Finance background**, which helps me understand not only how systems work, but also why they matter.
+I am following a structured roadmap to understand backend development deeply, from core programming concepts to database integration and clean architecture.
+
+I also have a background in **Business & Finance**, which helps me connect technical solutions with real-world needs.
 
 ---
 
@@ -46,7 +48,7 @@ I come from a **Business & Finance background**, which helps me understand not o
 ## 🧪 Projects
 
 🔹 **User API (Spring Boot + PostgreSQL)**  
-Simple backend API to manage users with database persistence.
+Backend API to manage users with database persistence.
 
 🔹 **Task Manager API** *(in progress)*  
 CRUD operations with clean architecture.
@@ -67,10 +69,10 @@ Users, posts, and comments system.
 ## 📫 Contact
 
 - LinkedIn: (pon aquí tu link)
-- Email: (opcional)
+- Email: josemariagodoy1996@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-I combine **tech + business mindset**, which allows me to build solutions with real impact.
+I enjoy understanding how systems work from the inside — not just using them, but building them.
